@@ -92,6 +92,11 @@ a {
   color: hsl(0, 100%, 74%);
   font-weight: bolder;
 }
+.repo {
+  color: hsl(249, 10%, 26%);
+  text-decoration: none;
+  padding: 4em;
+}
 
 /* Responsiveness*/
 @media screen and (max-width: 1440px) and (min-width: 375px) {
